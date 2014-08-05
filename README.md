@@ -1,1 +1,1 @@
-My answers to coderbyte (in JavaScript)
+My answers to coderbyte (in JavaScript), all got max points.
